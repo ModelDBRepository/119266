@@ -32,7 +32,7 @@ ASSIGNED {
 }
 	
 BREAKPOINT {
-	SOLVE state METHOD euler
+	SOLVE state METHOD derivimplicit
 }
 
 DERIVATIVE state { 
@@ -42,10 +42,3 @@ DERIVATIVE state {
          
 	cani' = drive_channel + (caninf-cani)/taurn
 }
-
-
-
-
-
-
-
