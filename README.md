@@ -31,9 +31,8 @@ figures similar to the traces in Figure 2 (increased Ca2+):
 ![screenshot2](./screenshot2.jpg)
 ![screenshot3](./screenshot3.jpg)
 
+## Changelog
 20120201 cadL.mod cad.mod cadN.mod updated to derivimplicit as per
 http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
 
----
-
-2025-06-02: Converted README to Markdown.
+20250602 Converted README to Markdown.
